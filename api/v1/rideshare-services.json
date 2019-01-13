@@ -43,5 +43,50 @@
         "url": "https://www.youtube.com/channel/UCclauP5ev_zEDCIyveQ_9EQ"
       }
     ]
+  },
+  
+  
+  {
+    "name": "Migo",
+    "url": "https://www.getmigo.com",
+    "description":  "Migo serves up your full spectrum of on-demand transportation choices on one screen. Real-time price and wait time estimates mean no more switching between apps to see who's closest or which one is surging. Migo even shows you your options from the apps you wouldn't typically open. Like taxi and car, bike and scooter shares.",
+    "locationDescription": "Seattle, Portland, DC, Boston, and 74 more cities",
+    "locations": [
+      {
+        "lat": 42.355211,
+        "long": -71.064242,
+        "radiusInMiles": 20
+      }
+    ],
+    "apps": [
+      {
+        "platform": "ios",
+        "url": "https://itunes.apple.com/app/apple-store/id1174601220?pt=118298679&ct=MigoHome%20010001&mt=8"
+      },
+      {
+        "platform": "android",
+        "url": "https://www.getmigo.com/android/"
+      }
+    ],
+    "contact": {
+    },
+    "socialMedia": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/GetMigo"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/GetMigo/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/getmigo/"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/migo-app/"
+      }
+    ]
   }
 ]
